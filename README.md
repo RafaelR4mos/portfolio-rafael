@@ -1,4 +1,4 @@
-# 🚀 Meus Principais Projetos
+# 🚀 Alguns dos meus Projetos públicos
 
 Bem-vindo ao showcase dos meus projetos! Aqui você encontrará uma seleção dos meus principais trabalhos, abrangendo projetos de `backend` e `frontend`. Cada projeto vem com uma breve descrição, tecnologias utilizadas, e links para o repositório original e deploy.
 
